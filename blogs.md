@@ -6,9 +6,9 @@ title: Blogs
 
 ## Chinese Blogs
 
-### 2024
+### June 2024
 
-- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
+- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)<br>
 
 ### 2023
 
@@ -32,21 +32,5 @@ title: Blogs
 
 - [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
 - [本科博客，笔记，回忆录](https://mieclance.club/)
-
-<br>
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
-
-## Web Star History
-
-[Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
 
 <br>
