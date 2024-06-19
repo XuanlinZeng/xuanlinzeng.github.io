@@ -24,7 +24,7 @@ Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xu
 
 # Working Manuscript
 
-<img src='assets/EnergyMultiReview.jpg'>
+<img src='images/EnergyMultiReview.jpg'>
 
 ## Energy-Oriented Multi-Vehicle Cooperative Control under V2X Environment: A Review (Under Review)
 
