@@ -6,30 +6,28 @@ title: Publications
 
 Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xuanlinzeng.github.io/file/publications-zh/)
 
-## Conference Paper
+# Conference Paper
 
 - Coming soon... 🚀
 
   <br>
 
-## Journal Paper
+# Journal Paper
 
 - Coming soon... 🚀
 
   <br>
 
-## Working Manuscript
+# Working Manuscript
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIV Under Review</div><img src='images/Energy-Oriented Multi-Vehicle Cooperative Control.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIV Under Review</div><img src='images/EnergyMultiReview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Energy-Oriented Multi-Vehicle Cooperative Control under V2X Environment: A Review (Under Review)](XXXX)**
 
 **Xuanlin Zeng**, [Lulu Guo](https://scholar.google.com/citations?user=0sUbiwQAAAAJ), [Xuan Li](https://scholar.google.com/citations?user=AYozSzMAAAAJ), [Hong Chen](https://scholar.google.com/citations?user=n_eA148AAAAJ)
 
-**Submitted**
-
-<!--**IEEE Transactions on Intelligent Vehicles** (JCR Q1, IF=8.2)-->
+**Submitted to IEEE Transactions on Intelligent Vehicles (JCR Q1, IF=8.2)**
 
 [**Publication**](XXXXX)
 -🚀 Coming Soon~
@@ -45,8 +43,8 @@ Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xu
   <br>
 
 ---
-## Patents
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/Scenario Complexity Model.png' alt="sym" width="100%"></div></div>
+# Patents
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/ScenarioComplexityModel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[A Scenario Complexity Model Construction Method Based on Autonomous Driving](XXXX)**
@@ -60,7 +58,7 @@ Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xu
 </div>
 </div>
 
-## Thesis
+# Thesis
 - Coming soon... 🚀
 
 

@@ -65,13 +65,11 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 
 # 📝 Publications
 
-Coming Soon~
+**Coming Soon🚀~**
 
 <br>
 
----
 
-# 💡 Patents
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/Scenario Complexity Model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
