@@ -20,6 +20,8 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 
 <br>
 
+---
+
 # Research Interests
 
 - Multi-Vehicle Cooperative Control
@@ -27,7 +29,7 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 - Eco-Driving
 - Autonomous Vehicles
 
-## I am actively looking for potential collaboration. Please feel free to email me at [zengxuanlin@tongji.edu.cn](mailto:zengxuanlin@tongji.edu.cn)**
+## I am actively looking for potential collaboration. Please feel free to email me at [zengxuanlin@tongji.edu.cn](mailto:zengxuanlin@tongji.edu.cn)
 
 <br>
 
@@ -58,10 +60,15 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 
 <br>
 
+---
+
 # 📝 Publications
 
 Coming Soon~
 
+<br>
+
+---
 
 # 💡 Patents
 
@@ -80,6 +87,9 @@ Coming Soon~
   </div>
 
 
+<br>
+
+---
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=tJ73IQDVB239FBa_Yypr3lRZ4VlGu5e3f5jdpSs12-0&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
