@@ -4,7 +4,7 @@ permalink: /services/index.html
 title: Services
 ---
 
-Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xuanlinzeng.github.io/file/services-zh/)
+Latest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xuanlinzeng.github.io/file/services-zh/)
 
 # 📚 Services
 

@@ -4,7 +4,7 @@ permalink: /honors-and-awards/index.html
 title: Hornors and Awards
 ---
 
-Lastest Update: 5th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://xuanlinzeng.github.io/file/hornors-and-awards-zh/)
+Latest Update: 5th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://xuanlinzeng.github.io/file/hornors-and-awards-zh/)
 
 # 🏆Scholarships
 
@@ -26,7 +26,7 @@ Lastest Update: 5th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://xu
 - *2019.12* National Encouragement Scholarship (Top 5%) (about $700), issued by the Ministry of Education of the People's Republic of China and Student Affairs Department of Jilin University
 - *2019.12* [Tsang Hin-chi](https://en.wikipedia.org/wiki/Tsang_Hin-chi) Scholarship (30 in Jilin University) (about $842), issued by the Ministry of Education of the People's Republic of China and Tsang Hin-chi Education Foundation, selected for the 7th Excellent College Students Award Program of Tsang Hin-chi Education Foundation<br>
 
-# 🎖️Competitions
+# 🏆Competitions
 
 - *2021.11* Championship of [Shell Eco-marathon](https://www.shellecomarathon.com/) China Challenge, Vehicle Design Award, Low Carbon Award, issued by the Teaching Steering Committee of Mechanical Major for Higher Education of the Ministry of Education of the People's Republic of China and Shell (China) Ltd.
 - *2021.04* Meritorious Winner of Mathematical Contest In Modeling (MCM), Administered by Consortium for Mathematics and Its Applications ([COMAP](https://www.comap.com/)), Sponsored by Mathematical Association of America ([MAA](https://maa.org/)), Institute for Operations Research and the Management Sciences ([INFORMS](https://www.informs.org/)), Society for Industrial and Applied Mathematics ([SIAM](https://www.siam.org/)), American Statistical Association ([ASA](https://www.amstat.org/)), and American Mathematical Society ([AMS](https://www.ams.org/))
@@ -54,7 +54,7 @@ Lastest Update: 5th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://xu
 - *2019.06* First Prize of School Selection Competition of National 3D Innovative Design Competition, issued by Jilin University
 - *2019.05* 5th place (808.6 km/L) of [Shell Eco-marathon](https://www.shellecomarathon.com/) Asia, issued by  [Royal Dutch Shell plc](https://en.wikipedia.org/wiki/Shell_plc)
 
-# 🏵️Honors
+# 🏆Honors
 
 - *2022.06* Outstanding Undergraduate Thesis, Research on the Distribution of Body Pressure in Comfortable Driving Posture, issued by Jilin University
 - *2022.06* Outstanding Graduate, issued by Jilin University
@@ -68,5 +68,5 @@ Lastest Update: 5th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://xu
 - *2019.12* University Outstanding Undergraduate (Top 5%), Jilin University
 - *2019.10* Official Member of JLU Conception Eco-Racing Team
 
-# 🧾Fundings
+# 🏆Fundings
 - *2020.06 - 2021.06* National College Student Innovation and Entrepreneurship Training Program (about $2798), Automatic Parking System in Structural Scenes for Raspberry-Pi 4 Based Smart Vehicle, issued by the Ministry of Education of the People's Republic of China

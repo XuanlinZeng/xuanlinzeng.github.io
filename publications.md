@@ -4,9 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xuanlinzeng.github.io/file/publications-zh/)
+Latest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xuanlinzeng.github.io/file/publications-zh/)
 
-# Conference Paper
+# Journal Paper
 
 - Coming soon... 🚀
 
@@ -14,7 +14,7 @@ Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xu
 
 ---
 
-# Journal Paper
+# Conference Paper
 
 - Coming soon... 🚀
 

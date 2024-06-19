@@ -7,17 +7,9 @@ title: Other Projects
 Latest Update: 5th Jan. 2024 &nbsp; [中文版本 (Chinese Version)](https:/xuanlinzeng.github.io/file/other-projects-zh/)
 
 # Practice Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DF PCC</div><img src='images/DFmotorCalibration.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+<img src='images/DFmotorCalibration.jpg>
 
 ## Development and Application of Model Predictive Control (MPC) Technology for Commercial Vehicles-Research on anticipatory driving technology based on MPC
-
-**Xuanlin Zeng**
-
-Co-advised by Research Professor [Lulu Guo](https://scholar.google.com/citations?user=0sUbiwQAAAAJ), Professor [Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and Assitant Professor [Jinlong Hong](https://ieeexplore.ieee.org/author/37085825398)
-
-[**Project**](xxxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Predictive Cruise Control (PCC) for Commercial Vehicles.
 - I conducted simulation testing and real vehicle tuning at the Electronic Control Department of Dongfeng Commercial Vehicle Technology Center in Wuhan, Hubei Province. The tasks included ensuring consistency between embedded control algorithms and Simulink control algorithms, optimizing existing embedded control algorithms, and performing SIL (Software-in-the-Loop) and HIL (Hardware-in-the-Loop) tests, followed by results comparison.
 - Familiar with the use of TRACE, Vehicle Spy, and other hardware simulation tool chains, and carry out the "Wuhan - Xiaogan" freeway segment of real-vehicle MPC road test.
@@ -47,7 +39,6 @@ Co-advised by Research Professor [Lulu Guo](https://scholar.google.com/citations
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Project**](xxxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The JLU Conception-Eco Racing Team aims to design and develop cars with better fuel economy, with the goal of making a liter of fuel go further. As the team leader of the vehicle body group, my responsibility is to lead the research and development of the vehicle body and chassis. Through our team's efforts, we have won numerous national championships.
 - Design and process the frame & body of the Prototype in the 2019 season: Raindrop-type lightweight body, Drag coefficient is reduced to 0.1Cd, Line optimization painting makes it more streamlined, Anti-roll frame improves safety, Optimize the body layering, Improve the rigidity, Reducing weight. Won the runner-up in the fuel group of the Shell ECO-Marathon (SEM) (1043.08km/L) and the Honda China Energy Conservation Competition (687.8km/L), Excellent Team Award in EV Group.
 - Model the frame & body of the Urban Concept Car (UC) in the 2020 season: Design the body of the first UC in the team’s history, Analyze wind resistance and external flow field, Complete the ergonomics design, Solve the driver's escape and vision to ensure the passive safety. Won the third runner-up of the SEM Online Race and the only UC Design Award in the field.
