@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /hornors-and-awards/index.html
+permalink: /honors-and-awards/index.html
 title: Hornors and Awards
 ---
 
