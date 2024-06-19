@@ -13,7 +13,8 @@ layout: page
 
 <span class='anchor' id='about-me'></span>
 
-<img src="https://xuanlinzeng.github.io/xuanlinzeng1.jpg" class="floatpic" width="360" height="480">
+<img src="https://xuanlinzeng.github.io/xuanlinzeng1.jpg" class="floatpic">
+
 
 I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehicles and the [College of Electronic and Information Engineering]([College of Electronic and Information Engineering (tongji.edu.cn)](https://see-en.tongji.edu.cn/)), Tongji University, Shanghai, China. I am advised by Research Professor [Lulu Guo](https://scholar.google.com/citations?user=0sUbiwQAAAAJ). I received the B.E. degree in industrial design (vehicle body engineering) from the [College of Automotive Engineering](http://auto.jlu.edu.cn/EN/Home.htm), Jilin University, Changchun, China, in 2022. From 2022 to 2024, I was also a master's student in vehicle engineering with the [School of Automotive Studies](https://autoen.tongji.edu.cn/), Tongji University, Shanghai, China, advised by Distinguished Professor [Hong Chen](https://scholar.google.com/citations?user=n_eA148AAAAJ).
 
@@ -26,7 +27,7 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 - Eco-Driving
 - Autonomous Vehicles
 
-**<font color='red'>[Highlight]</font> I am actively looking for potential collaboration. Please feel free to email me at - *zengxuanlin[at]tongji[dot]edu[dot]cn* **
+## I am actively looking for potential collaboration. Please feel free to email me at [zengxuanlin@tongji.edu.cn](mailto:zengxuanlin@tongji.edu.cn)**
 
 <br>
 
@@ -58,9 +59,14 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 <br>
 
 # 📝 Publications
+
 Coming Soon~
 
+
 # 💡 Patents
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/Scenario Complexity Model.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **A Scenario Complexity Model Construction Method Based on Autonomous Driving**
 
@@ -74,8 +80,11 @@ Coming Soon~
   </div>
 
 
+
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=tJ73IQDVB239FBa_Yypr3lRZ4VlGu5e3f5jdpSs12-0&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
+
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=56xm0krbvhp&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+
 
 <a href="https://info.flagcounter.com/nGWD"><img src="https://s01.flagcounter.com/count2/nGWD/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
