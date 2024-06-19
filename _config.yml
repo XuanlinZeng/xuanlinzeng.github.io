@@ -1,26 +1,40 @@
-title: Hanlin Cai
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
-# description: Two roads diverged in woods, I took the one less traveled by.
-#Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+title: Xuanlin Zeng
+url: https://xuanlinzeng.github.io
+description: "Ph.D. Student at Tongji University. Focusing on multi-vehicle cooperative control, intelligent transportation systems, and autonomous driving."
+google_scholar_stats_use_cdn : true
+
+# google analytics
+google_analytics_id      :  G-3MF2DQ0TC0
+
+# SEO Related
+google_site_verification :  KRIKPcOy-YZOq5PXLDIEAmLQcqVMScbFWbDfokUkaNU
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  name: Xuanlin Zeng
+  avatar: xuanlinzeng.jpg #images/android-chrome-512x512.png
+  email: zengxuanlin@tongji.edu.cn
+  cv: https://xuanlinzeng.github.io/file/CV-XuanlinZENG.pdf
+ 
+  twitter: xuanlin_zeng
+  github: XuanlinZeng
+  linkedin: xuanlin-zeng
+  scholar: https://scholar.google.com/citations?user=ueRm4q0AAAAJ
+  bilibili: 94878011
+  researchgate: https://www.researchgate.net/profile/Xuanlin-Zeng
+  zhihu: https://www.zhihu.com/people/hungry-foolish-24-8
+  # facebook: # 又被封了,"profile.php?id=61554372831369"
+  instagram: zengxuanlin
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -28,7 +42,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: # "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -36,7 +50,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Homepage
     url: /
   - title: Publications
     url: /publications/
@@ -85,5 +99,3 @@ disqus:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/12/10 by Hanlin Cai.
