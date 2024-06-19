@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Owner/author information
 owner:
   name: Xuanlin Zeng
-  avatar: images/android-chrome-512x512.png
+  avatar: android-chrome-512x512.png
   email: zengxuanlin@tongji.edu.cn
   cv: https://xuanlinzeng.github.io/file/CV-XuanlinZENG.pdf
  
