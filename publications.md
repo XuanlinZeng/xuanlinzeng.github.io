@@ -10,13 +10,17 @@ Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xu
 
 - Coming soon... 🚀
 
-  <br>
+<br>
+
+---
 
 # Journal Paper
 
 - Coming soon... 🚀
 
-  <br>
+<br>
+
+---
 
 # Working Manuscript
 
@@ -40,9 +44,10 @@ Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xu
 
 
 
-  <br>
+<br>
 
 ---
+
 # Patents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/ScenarioComplexityModel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,8 +63,12 @@ Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xu
 </div>
 </div>
 
+<br>
+
+---
+
 # Thesis
 - Coming soon... 🚀
 
 
-  <br>
+<br>

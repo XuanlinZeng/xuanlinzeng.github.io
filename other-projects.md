@@ -1,53 +1,66 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /other-projects/index.html
+title: Other Projects
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 5th Jan. 2024 &nbsp; [中文版本 (Chinese Version)](https:/xuanlinzeng.github.io/file/other-projects-zh/)
 
-## Scholarships
+# Practice Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DF PCC</div><img src='images/DFmotor calibration.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+**(Maintaining)Development and Application of Model Predictive Control (MPC) Technology for Commercial Vehicles-Research on anticipatory driving technology based on MPC**
 
-## Competitions
+**Xuanlin Zeng**
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+Co-advised by Research Professor [Lulu Guo](https://scholar.google.com/citations?user=0sUbiwQAAAAJ), Professor [Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and Assitant Professor [Jinlong Hong](https://ieeexplore.ieee.org/author/37085825398)
 
-## Honors
+[**Project**](xxxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Predictive Cruise Control (PCC) for Commercial Vehicles.
+- I conducted simulation testing and real vehicle tuning at the Electronic Control Department of Dongfeng Commercial Vehicle Technology Center in Wuhan, Hubei Province. The tasks included ensuring consistency between embedded control algorithms and Simulink control algorithms, optimizing existing embedded control algorithms, and performing SIL (Software-in-the-Loop) and HIL (Hardware-in-the-Loop) tests, followed by results comparison.
+- Familiar with the use of TRACE, Vehicle Spy, and other hardware simulation tool chains, and carry out the "Wuhan - Xiaogan" freeway segment of real-vehicle MPC road test.
+</div>
+</div>
 
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+<br>
 
-## Services
+---
 
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
+# Competition Projects
+<style>
+  .paper-box-image img {
+    margin-bottom: 10px; /* 调整间隔的大小，根据需要进行更改 */
+  }
+</style>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge badge-1">JLU Conception-Prototype</div>
+      <img src='images/JLU Conception-Prototype.jpg' alt="fig1" width="100%">
+      <div style="height: 10px;"></div> <!-- 调整高度，根据需要进行更改 --> 
+      <div class="badge badge-1">JLU Conception-UC</div>
+      <img src='images/JLU Conception-EP.jpg' alt="fig2" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**(Maintaining)Jilin University (JLU) Conception-Eco Racing Team**
+
+**Xuanlin Zeng**
+
+Co-advised by Associate Professor [Da Wang](https://webofscience.clarivate.cn/wos/author/record/31504087) and Senior Engineer Zhaohui Jin
+
+[**Project**](xxxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The JLU Conception-Eco Racing Team aims to design and develop cars with better fuel economy, with the goal of making a liter of fuel go further. As the team leader of the vehicle body group, my responsibility is to lead the research and development of the vehicle body and chassis. Through our team's efforts, we have won numerous national championships.
+- Design and process the frame & body of the Prototype in the 2019 season: Raindrop-type lightweight body, Drag coefficient is reduced to 0.1Cd, Line optimization painting makes it more streamlined, Anti-roll frame improves safety, Optimize the body layering, Improve the rigidity, Reducing weight. Won the runner-up in the fuel group of the Shell ECO-Marathon (SEM) (1043.08km/L) and the Honda China Energy Conservation Competition (687.8km/L), Excellent Team Award in EV Group.
+- Model the frame & body of the Urban Concept Car (UC) in the 2020 season: Design the body of the first UC in the team’s history, Analyze wind resistance and external flow field, Complete the ergonomics design, Solve the driver's escape and vision to ensure the passive safety. Won the third runner-up of the SEM Online Race and the only UC Design Award in the field.
+</div>
+</div>
+
+<br>
+
+---
+
+- **Feb. 2021  - March 2021**: Winter Camp Participant of Machine Learning Plus in Autonomous Driving Program (Online) in The Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)), Massachusetts Institute of Technology (MIT), Cambridge, MA, USA
