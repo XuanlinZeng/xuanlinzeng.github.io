@@ -1,53 +1,72 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /hornors-and-awards/index.html
+title: Hornors and Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 5th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://xuanlinzeng.github.io/file/hornors-and-awards-zh/)
 
-## Scholarships
+## 🏆 Scholarships
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+- *2023.12* Postgraduate Social Activities Scholarship (about $700), issued by Tongji University
+- *2022.06* President Scholarship (20 in Jilin University) (about $1400), issued by Jilin University
+- *2022.06* Second Class Scholarship (about $140), issued by Jilin University
+- *2022.06* Individual Scholarship-Social Practice Scholarship (about $42), issued by Jilin University
+- *2021.12* China Telecom Fly Young Scholarship (Only 1 in Jilin University) (about $700), issued by the Central Committee of the Communist Youth League, China Telecom Corporation Limited, All-China Students' Federation, China GuangHua Science and Technology Foundation, and China Telecom Corporation Ltd. Key Account Business Division
+- *2021.12* Yu Liming Scholarship (Top 1%, Top Honors of College of Automotive Engineering, Jilin University) (about $1400), issued by [Zhejiang Liming Intelligent Manufacturing Co., Ltd.](http://zhejiangliming.com/en/) and College of Automotive Engineering, Jilin University
+- *2021.12* National Encouragement Scholarship (Top 5%) (about $700), issued by the Ministry of Education of the People's Republic of China and Student Affairs Department of Jilin University
+- *2021.12* Individual Scholarship-Social Practice Scholarship (about $42), issued by Jilin University
+- *2021.12* Dongrong Scholarship ($140), issued by Dr. Kwon Yung-ho, President of Inter-Burgo Group, Korea and Student Affairs Department of Jilin University
+- *2021.12* [Tsang Hin-chi](https://en.wikipedia.org/wiki/Tsang_Hin-chi) Scholarship (30 in Jilin University) (about $842), issued by the Ministry of Education of the People's Republic of China and Tsang Hin-chi Education Foundation, selected for the 7th Excellent College Students Award Program of Tsang Hin-chi Education Foundation
+- *2020.12* Yu Liming Scholarship (Top 1%, Top Honors of College of Automotive Engineering, Jilin University) (about $1400), issued by [Zhejiang Liming Intelligent Manufacturing Co., Ltd.](http://zhejiangliming.com/en/) and College of Automotive Engineering, Jilin University
+- *2020.12* National Encouragement Scholarship (Top 5%) (about $700), issued by the Ministry of Education of the People's Republic of China and Student Affairs Department of Jilin University
+- *2020.12* Individual Scholarship-Social Practice Scholarship (about $42), issued by Jilin University
+- *2020.12* [Tsang Hin-chi](https://en.wikipedia.org/wiki/Tsang_Hin-chi) Scholarship (30 in Jilin University) (about $842), issued by the Ministry of Education of the People's Republic of China and Tsang Hin-chi Education Foundation, selected for the 7th Excellent College Students Award Program of Tsang Hin-chi Education Foundation
+- *2019.12* Yu Liming Scholarship (Top 1%, Top Honors of College of Automotive Engineering, Jilin University) (about $1400), issued by [Zhejiang Liming Intelligent Manufacturing Co., Ltd.](http://zhejiangliming.com/en/) and College of Automotive Engineering, Jilin University
+- *2019.12* National Encouragement Scholarship (Top 5%) (about $700), issued by the Ministry of Education of the People's Republic of China and Student Affairs Department of Jilin University
+- *2019.12* [Tsang Hin-chi](https://en.wikipedia.org/wiki/Tsang_Hin-chi) Scholarship (30 in Jilin University) (about $842), issued by the Ministry of Education of the People's Republic of China and Tsang Hin-chi Education Foundation, selected for the 7th Excellent College Students Award Program of Tsang Hin-chi Education Foundation<br>
 
-## Competitions
+## 🏆Competitions
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+- *2021.11* Championship of [Shell Eco-marathon](https://www.shellecomarathon.com/) China Challenge, Vehicle Design Award, Low Carbon Award, issued by the Teaching Steering Committee of Mechanical Major for Higher Education of the Ministry of Education of the People's Republic of China and Shell (China) Ltd.
+- *2021.04* Meritorious Winner of Mathematical Contest In Modeling (MCM), Administered by Consortium for Mathematics and Its Applications ([COMAP](https://www.comap.com/)), Sponsored by Mathematical Association of America ([MAA](https://maa.org/)), Institute for Operations Research and the Management Sciences ([INFORMS](https://www.informs.org/)), Society for Industrial and Applied Mathematics ([SIAM](https://www.siam.org/)), American Statistical Association ([ASA](https://www.amstat.org/)), and American Mathematical Society ([AMS](https://www.ams.org/))
+- *2020.12* Silver Award of the 12 th “Challenge Cup” Chinese College Students Entrepreneurship Competition, issued by Organizing Committee of the 12 th “Challenge Cup” Chinese College Students Entrepreneurship Competition, Central Committee of the Chinese Communist Youth League, Ministry of Education of the People's Republic of China, China Association for Science and Technology, All-China Students' Federation, People's Government of Heilongjiang Province, Northeast Forestry University, and Heilongjiang Provincial Committee of the Communist Youth League
+- *2020.11* Third place of Shell Eco-marathon China Challenge, Urban Concept Car Design Award, issued by the Teaching Steering Committee of Mechanical Major for Higher Education of the Ministry of Education of the People's Republic of China and Shell (China) Ltd.
+- *2020.11* Second Prize of Jilin Province of Undergraduate Group of China/Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), issued by Jilin Province Organizing Committee of CUMCM and China Society for Industrial and Applied Mathematics (CSIAM)
+- *2020.11* Bronze Award of the 6th China International College Students' "Internet+" and Entrepreneurship Competition, issued by Organizing Committee of the China International College Students' "Internet+" and Entrepreneurship Competition, Ministry of Education of the People's Republic of China, United Front Work Department of CPC Central Committe, Office of the Central Cyberspave Affairs Commission, National Development and Reform Commission of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China, Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Agriculture and Rural Affairs of the People's Republic of China, Chinese Academy of Sciences, Chinese Academy of Engineering, China National Intellectual Property Administration, State Council Leading Group Office of Poverty Alleviation and Development, Central Committee of the Chinese Communist Youth League, and People's Government of Guangdong Province
+- *2020.10* Gold Award of the 6th Jilin Province College Students' "Internet+" and Entrepreneurship Competition, issued by Organizing Committee of the Jilin Province College Students' "Internet+" and Entrepreneurship Competition, Education Department of Jilin Province, Publicity Department of the Jilin Provincial Party Committee, Jilin Provincial Committee of the Communist Youth League, Development and Reform Commission of Jilin Province, Industry and Information Technology Department of Jilin Province, Jilin Provincial Science and Technology Department, Jilin Provincial Department of Finance, Department of Human Resources and Social Security of Jilin Province, Department of Commerce of Jilin Province, Department of Agriculture and Rural Affairs of Jilin Province, Office of Jilin Provincial Cyberspave Affairs Commission, Foreign Affair Office of Jilin Province, and Office of Poverty Alleviation and Aevelopment of Jilin Province
+- *2020.09* Grand Prize of "Challenge Cup" Jilin Province College Students Entrepreneurship Competition, issued by Jilin Provincial Committee of the Communist Youth League, Education Department of Jilin Province, Department of Human Resources and Social Security of Jilin Province, Jilin Provincial Association for Science and Technology, and Jilin Provincial Student Federation
+- *2020.09* Gold Award of Jilin University College Students' "Internet+" and Entrepreneurship Competition, issued by Jilin University
+- *2020.09* Gold Award of "Challenge Cup" Jilin University College Students Entrepreneurship Competition, issued by Jilin University
+- *2020.07* Second Prize of Jilin University 3D Innovation Design Competition, issued by Jilin University
+- *2020.04* Honorable Mention of Interdisciplinary Contest In Modeling (ICM), Administered by Consortium for Mathematics and Its Applications ([COMAP](https://www.comap.com/)), Sponsored by Mathematical Association of America ([MAA](https://maa.org/)), Institute for Operations Research and the Management Sciences ([INFORMS](https://www.informs.org/)), Society for Industrial and Applied Mathematics ([SIAM](https://www.siam.org/)), American Statistical Association ([ASA](https://www.amstat.org/)), and American Mathematical Society ([AMS](https://www.ams.org/))
+- *2019.12* Second Prize of the National Finals of  the 12th National 3D Innovative Design Competition , issued by Organizing Committee of National 3D Innovation Design Competition, National Manufacturing Informatization Training Center, China Graphics Society, Dragon Design Foundation, National 3D Technology Promotion Service and Education Training Alliance, guided by Ministry of Science and Technology of the People's Republic of China, Ministry of Education of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China, China Association for Science and Technology, etc.
+- *2019.11* Third Prize of Jilin Province of Undergraduate Group of China/Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), issued by Jilin Province Organizing Committee of CUMCM and China Society for Industrial and Applied Mathematics (CSIAM)
+- *2019.11* Second prize (476.53 km/L & 687.8 km/L) in Fuel Class [Fuel Class: 4 laps, average speed not less than 25 km/h, lowest fuel consumption wins], 6th place (13122 m) & 8th place (10379 m) in Electric Class & Outstanding Team [Electric Class: average speed not less than 25 km/h per lap, longest distance traveled when battery power runs out wins] of 13th Honda China Eco Mileage Challenge, issued by Organizing Committee of Honda China Eco Mileage Challenge and Honda Motor(China) Investment Co., Ltd.
+- *2019.11* Grand Prize of Jilin Province of the 12th National 3D Innovative Design Competition, issued by Organizing Committee of National 3D Innovation Design Competition, National Manufacturing Informatization Training Center, China Graphics Society, Dragon Design Foundation, National 3D Technology Promotion Service and Education Training Alliance, guided by Ministry of Science and Technology of the People's Republic of China, Ministry of Education of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China, China Association for Science and Technology, etc.
+- *2019.10* Second Prize of the 11th Undergraduate Mathematics Competition in Jilin Province (Non-Mathematics Major), issued by Jilin Mathematical Society
+- *2019.09* Second Prize in the Final of Jilin Province of Chinese Innovation Method Competition, issued by Jilin Provincial Department of Science and Technology, Education Department of Jilin Province, Jilin Provincial Association for Science and Technology, and  Jilin Provincial Intellectual Property Office
+- *2019.09* Second place of [Shell Eco-marathon](https://www.shellecomarathon.com/) China Challenge (1043.08 km/L), issued by the Teaching Steering Committee of Mechanical Major for Higher Education of the Ministry of Education of the People's Republic of China and Shell (China) Ltd.
+- *2019.09* Third Prize of Jilin University Mathematical Contest in Modeling, issued by Organizing Committee of Jilin University Undergraduate Mathematical Contest in Modeling
+- *2019.08* First Prize of Jilin Province Undergraduate Mathematical Contest in Modeling, Organizing Committee of Jilin Province of China/Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) and Jilin Society for Industrial and Applied Mathematics
+- *2019.07* Third Prize of Undergraduate Group of the 2nd China Youth Cup (CYC) National Undergraduate Mathematical Contest in Modeling, issued by Organizing Committee of CYC National Undergraduate Mathematical Contest in Modeling and Jilin Society of Science and Technology Education
+- *2019.07* Second Prize of Jilin Province of the 12th National 3D Competition Elite League, issued by Organizing Committee of National 3D Innovation Design Competition, National Manufacturing Informatization Training Center, China Graphics Society, Dragon Design Foundation, National 3D Technology Promotion Service and Education Training Alliance, guided by Ministry of Science and Technology of the People's Republic of China, Ministry of Education of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China, China Association for Science and Technology, etc.
+- *2019.06* First Prize of School Selection Competition of National 3D Innovative Design Competition, issued by Jilin University
+- *2019.05* 5th place (808.6 km/L) of [Shell Eco-marathon](https://www.shellecomarathon.com/) Asia, issued by  [Royal Dutch Shell plc](https://en.wikipedia.org/wiki/Shell_plc)
 
-## Honors
+## 🏆Honors
 
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+- *2022.06* Outstanding Undergraduate Thesis, Research on the Distribution of Body Pressure in Comfortable Driving Posture, issued by Jilin University
+- *2022.06* Outstanding Graduate, issued by Jilin University
+- *2022.06* 2021 Self-Improvement and Self-Reliance Undergraduate (10 in Jilin University), issued by Jilin University
+- *2022.06* College Outstanding Undergraduate, Jilin University
+- *2021.12* Excellent Student of [Tsang Hin-chi](https://en.wikipedia.org/wiki/Tsang_Hin-chi) Scholarship (the only one won this honor in Jilin University. A total of 1,140 students from 38 universities and colleges were awarded the Tsang Hin-chi Scholarship in the 7th Excellent College Students Award Program of Tsang Hin-chi Education Foundation, among which 38 students won the honor of Excellent Students),  issued by the Ministry of Education of the People's Republic of China and Tsang Hin-chi Education Foundation
+- *2021.12* College Outstanding Undergraduate, Jilin University
+- *2021.11* Excellent Member of JLU Conception Eco-Racing Team
+- *2020.12* University Outstanding Undergraduate (Top 5%), Jilin University
+- *2020.11* Outstanding Member of JLU Conception Eco-Racing Team
+- *2019.12* University Outstanding Undergraduate (Top 5%), Jilin University
+- *2019.10* Official Member of JLU Conception Eco-Racing Team
 
-## Services
-
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
+## 🏆Fundings
+- *2020.06 - 2021.06* National College Student Innovation and Entrepreneurship Training Program (about $2798), Automatic Parking System in Structural Scenes for Raspberry-Pi 4 Based Smart Vehicle, issued by the Ministry of Education of the People's Republic of China
