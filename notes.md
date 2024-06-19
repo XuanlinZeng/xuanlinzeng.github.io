@@ -6,8 +6,8 @@ title: Notes
 
 ## Paper Notes
 
-- Internet of Everything
-- Cyber-security
-- Machine Learning
+- V2X
+- Generative AI
+- Embodied AI
 
 <br>
