@@ -76,7 +76,7 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/Scenario Complexity Model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Scenario Complexity Model Construction Method Based on Autonomous Driving**
+## A Scenario Complexity Model Construction Method Based on Autonomous Driving
 
 [Yulei Wang](https://ieeexplore.ieee.org/author/37085365131), **Xuanlin Zeng**, [Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ), [Lulu Guo](https://scholar.google.com/citations?user=0sUbiwQAAAAJ), [Lin Zhang](https://ieeexplore.ieee.org/author/37538577800), [Hong Chen](https://scholar.google.com/citations?user=n_eA148AAAAJ)
 

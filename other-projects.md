@@ -4,13 +4,14 @@ permalink: /other-projects/index.html
 title: Other Projects
 ---
 
-Lastest Update: 5th Jan. 2024 &nbsp; [中文版本 (Chinese Version)](https:/xuanlinzeng.github.io/file/other-projects-zh/)
+Latest Update: 5th Jan. 2024 &nbsp; [中文版本 (Chinese Version)](https:/xuanlinzeng.github.io/file/other-projects-zh/)
 
 # Practice Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DF PCC</div><img src='images/DFmotor calibration.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DF PCC</div><img src='images/DFmotorCalibration.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(Maintaining)Development and Application of Model Predictive Control (MPC) Technology for Commercial Vehicles-Research on anticipatory driving technology based on MPC**
+
+## Development and Application of Model Predictive Control (MPC) Technology for Commercial Vehicles-Research on anticipatory driving technology based on MPC
 
 **Xuanlin Zeng**
 
@@ -28,29 +29,23 @@ Co-advised by Research Professor [Lulu Guo](https://scholar.google.com/citations
 ---
 
 # Competition Projects
+## Jilin University (JLU) Conception-Eco Racing Team
 <style>
   .paper-box-image img {
     margin-bottom: 10px; /* 调整间隔的大小，根据需要进行更改 */
   }
 </style>
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-1">JLU Conception-Prototype</div>
-      <img src='images/JLU Conception-Prototype.jpg' alt="fig1" width="100%">
+      <img src='images/JLUConception-Prototype.jpg' alt="fig1" width="100%">
       <div style="height: 10px;"></div> <!-- 调整高度，根据需要进行更改 --> 
       <div class="badge badge-1">JLU Conception-UC</div>
-      <img src='images/JLU Conception-EP.jpg' alt="fig2" width="100%">
+      <img src='images/JLUConception-EP.jpg' alt="fig2" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-
-**(Maintaining)Jilin University (JLU) Conception-Eco Racing Team**
-
-**Xuanlin Zeng**
-
-Co-advised by Associate Professor [Da Wang](https://webofscience.clarivate.cn/wos/author/record/31504087) and Senior Engineer Zhaohui Jin
 
 [**Project**](xxxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The JLU Conception-Eco Racing Team aims to design and develop cars with better fuel economy, with the goal of making a liter of fuel go further. As the team leader of the vehicle body group, my responsibility is to lead the research and development of the vehicle body and chassis. Through our team's efforts, we have won numerous national championships.
@@ -63,4 +58,5 @@ Co-advised by Associate Professor [Da Wang](https://webofscience.clarivate.cn/wo
 
 ---
 
-- **Feb. 2021  - March 2021**: Winter Camp Participant of Machine Learning Plus in Autonomous Driving Program (Online) in The Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)), Massachusetts Institute of Technology (MIT), Cambridge, MA, USA
+## Winter Camp Participant of Machine Learning Plus in Autonomous Driving Program (Online)
+- **Feb. 2021  - March 2021**: Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)), Massachusetts Institute of Technology (MIT), Cambridge, MA, USA
