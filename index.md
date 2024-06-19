@@ -71,10 +71,7 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 
 ---
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/Scenario Complexity Model.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<img src="images/ScenarioComplexityModel.png">
 
 ## A Scenario Complexity Model Construction Method Based on Autonomous Driving
 
@@ -84,10 +81,6 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 
 [**Publication**](https://kns.cnki.net/kcms2/article/abstract?v=j6HAoO1nZAzkvm6MpJHoWmBDJ2BW2KtBnB4STXfe_pNEoLN8cD9-fMOJLH8TqeJSLwUrGghTFGW5L50LZTymV3kXgDyNFd3nOzU7gYlERTO8Qx1wBLHFGcJdO261w1A_DlevaQ671cg=&uniplatform=NZKPT&language=CHS) [**Download**](https://github.com/XuanlinZeng/My_Publications/blob/main/%E5%8F%91%E6%98%8E%E5%85%AC%E5%BC%80-%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E5%9C%BA%E6%99%AF%E5%A4%8D%E6%9D%82%E5%BA%A6%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA%E6%96%B9%E6%B3%95.pdf)
 - This invention pertains to a method for constructing a scenario complexity model based on autonomous driving, comprising the following steps: determining complexity weight factors in autonomous driving tasks; establishing a complexity model for autonomous driving tasks based on the complexity weight factors; building a scenario complexity model based on the autonomous driving task complexity model. The autonomous driving tasks encompass localization tasks, perception tasks, and control tasks. In contrast to existing technology, this invention takes into consideration the complexity and weight factors of various factors involved in dynamic driving tasks: localization, perception, and control. It constructs a scenario complexity model with a neural network-like structure. This model can provide a theoretical foundation and scientific basis for autonomous vehicle testing and evaluation, industry standards, and the formulation of relevant legal regulations.
-  </div>
-  </div>
-
-
 <br>
 
 ---
