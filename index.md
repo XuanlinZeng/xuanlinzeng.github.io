@@ -13,7 +13,7 @@ layout: page
 
 <span class='anchor' id='about-me'></span>
 
-<img src="https://xuanlinzeng.github.io/xuanlinzeng1.jpg" class="floatpic">
+<img src="images/xuanlinzeng1.jpg">
 
 Here is **Xuanlin Zeng**.
 

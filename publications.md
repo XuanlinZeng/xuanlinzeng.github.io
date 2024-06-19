@@ -24,10 +24,9 @@ Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xu
 
 # Working Manuscript
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIV Under Review</div><img src='images/EnergyMultiReview.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<img src='images/EnergyMultiReview.png'>
 
-**[Energy-Oriented Multi-Vehicle Cooperative Control under V2X Environment: A Review (Under Review)](XXXX)**
+## Energy-Oriented Multi-Vehicle Cooperative Control under V2X Environment: A Review (Under Review)
 
 **Xuanlin Zeng**, [Lulu Guo](https://scholar.google.com/citations?user=0sUbiwQAAAAJ), [Xuan Li](https://scholar.google.com/citations?user=AYozSzMAAAAJ), [Hong Chen](https://scholar.google.com/citations?user=n_eA148AAAAJ)
 
@@ -39,20 +38,16 @@ Lastest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xu
 <!-- Leveraging vehicle-to-everything (V2X) communication, multi-vehicle cooperative control shows promising potential for enhancing traffic efficiency and energy saving. However, current research primarily focuses on single-vehicle or simplistic platoon control, limiting the scope to addressing diverse single-lane platoons, intricate multi-lane cooperation mechanisms, homogeneous or heterogeneous systems, and advanced energy-efficient control algorithms. To promote the application of multi-vehicle cooperative energy-efficient control in intelligent transportation systems, this paper presents a comprehensive review of the recent progress and challenges. Existing literature is categorized by scenario variations into the platoon level and the traffic level studies. Furthermore, distinctions between homogeneous and heterogeneous multi-vehicle systems are discussed. Moreover, algorithms based on models and learning are elaborately introduced and analyzed. Finally, this paper presents discussions and outlines prospective future directions to guide readers.
 -->
 
-  </div>
-  </div>
-
-
 
 <br>
 
 ---
 
 # Patents
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN Patent</div><img src='images/ScenarioComplexityModel.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**[A Scenario Complexity Model Construction Method Based on Autonomous Driving](XXXX)**
+<img src='images/ScenarioComplexityModel.png'>
+
+## A Scenario Complexity Model Construction Method Based on Autonomous Driving
 
 [Yulei Wang](https://ieeexplore.ieee.org/author/37085365131), **Xuanlin Zeng**, [Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ), [Lulu Guo](https://scholar.google.com/citations?user=0sUbiwQAAAAJ), [Lin Zhang](https://ieeexplore.ieee.org/author/37538577800), [Hong Chen](https://scholar.google.com/citations?user=n_eA148AAAAJ)
 
