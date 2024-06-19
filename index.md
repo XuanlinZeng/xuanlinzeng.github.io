@@ -71,7 +71,7 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 
 ---
 
-<img src="images/ScenarioComplexityModel.png">
+<img src="images/ScenarioComplexityModel.jpg">
 
 ## A Scenario Complexity Model Construction Method Based on Autonomous Driving
 
