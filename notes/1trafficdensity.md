@@ -4,6 +4,13 @@ permalink: notes/1trafficdensity/index.html
 title: 交通流理论（一）-车流密度
 ---
 
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" 
+          onload="renderMathInElement(document.body);"></script>
+</head>
+
 ## 交通流理论（一）-车流密度
 
 > 更新时间：2024/06/17
