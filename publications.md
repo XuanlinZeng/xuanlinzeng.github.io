@@ -24,7 +24,9 @@ Latest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xua
 
 # Working Manuscript
 
-<img src='images/EnergyMultiReview.jpg'>
+<div>
+<img src="/images/EnergyMultiReview.jpg">
+</div>
 
 ## Energy-Oriented Multi-Vehicle Cooperative Control under V2X Environment: A Review (Under Review)
 
@@ -45,7 +47,9 @@ Latest Update: 5th Jan. 2024&nbsp;  [中文版本 (Chinese Version)](https://xua
 
 # Patents
 
-<img src='images/ScenarioComplexityModel.jpg'>
+<div>
+<img src="/images/ScenarioComplexityModel.jpg">
+</div>
 
 ## A Scenario Complexity Model Construction Method Based on Autonomous Driving
 
