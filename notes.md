@@ -4,7 +4,7 @@ permalink: /notes/index.html
 title: Notes
 ---
 
-## Paper Notes
+# Paper Notes
 
 - V2X
 - Generative AI

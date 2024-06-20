@@ -4,7 +4,7 @@ permalink: /honors-and-awards/index.html
 title: Hornors and Awards
 ---
 
-Latest Update: 5th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://xuanlinzeng.github.io/file/hornors-and-awards-zh/)
+> Latest Update: 5th Jan. 2024 &nbsp; [中文版本 (Chinese Version)](https://xuanlinzeng.github.io/file/hornors-and-awards-zh/)
 
 # 🏆Scholarships
 

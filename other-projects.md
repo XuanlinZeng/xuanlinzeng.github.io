@@ -4,7 +4,7 @@ permalink: /other-projects/index.html
 title: Other Projects
 ---
 
-Latest Update: 5th Jan. 2024 &nbsp; [中文版本 (Chinese Version)](https:/xuanlinzeng.github.io/file/other-projects-zh/)
+> Latest Update: 5th Jan. 2024 &nbsp; [中文版本 (Chinese Version)](https:/xuanlinzeng.github.io/file/other-projects-zh/)
 
 # Practice Projects
 <div>
