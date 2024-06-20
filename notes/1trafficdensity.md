@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: notes/1trafficdensity/index.html
-title: 写在博士拟录取这天
+title: 交通流理论（一）-车流密度
 ---
 
-## 车流密度
+## 交通流理论（一）-车流密度
 
 > 更新时间：2024/06/17
 
