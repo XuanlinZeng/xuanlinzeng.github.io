@@ -4,12 +4,14 @@ layout: page
 
 # About Me
 
+<!--
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+-->
 
 <span class='anchor' id='about-me'></span>
 
@@ -85,10 +87,18 @@ I am currently a first-year Ph.D. Student from the Institute of Intelligent Vehi
 
 ---
 
+
+
+<!--
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=tJ73IQDVB239FBa_Yypr3lRZ4VlGu5e3f5jdpSs12-0&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+-->
+
+
+
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=56xm0krbvhp&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
-
+<!--
 <a href="https://info.flagcounter.com/nGWD"><img src="https://s01.flagcounter.com/count2/nGWD/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+-->
