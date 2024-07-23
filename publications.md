@@ -32,7 +32,7 @@ title: Publications
 
 **Xuanlin Zeng**, [Lulu Guo](https://scholar.google.com/citations?user=0sUbiwQAAAAJ), [Xuan Li](https://scholar.google.com/citations?user=AYozSzMAAAAJ), [Hong Chen](https://scholar.google.com/citations?user=n_eA148AAAAJ)
 
-**Submitted to IEEE Transactions on Intelligent Vehicles (JCR Q1, IF=8.2)**
+**Submitted**
 
 [**Publication**](XXXXX)
 -🚀 Coming Soon~
